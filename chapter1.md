@@ -13,10 +13,10 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Primero, se puede trabajar en R como si fuera una calculadora. Con esto se pueden realizar diversos cálculos.			
 
 `@instructions`
-
+Realizar la suma de 1 con 2.
 
 `@hint`
 
@@ -28,12 +28,12 @@ This is an example exercise.
 
 `@sample_code`
 ```{r}
-
+###Suma
 ```
 
 `@solution`
 ```{r}
-
+1+2
 ```
 
 `@sct`
